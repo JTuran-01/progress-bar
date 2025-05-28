@@ -7,7 +7,6 @@ export default function ProgressBar(props) {
             <div
                 className="progressBar"
                 style={{
-                    width: "100%",
                     backgroundColor: "#e0e0e0",
                     borderRadius: "4px",
                 }}
